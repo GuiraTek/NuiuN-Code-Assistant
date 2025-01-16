@@ -86,7 +86,7 @@ streamlit run app.py
 ## 📁 Estrutura do Projeto
 
 ```
-ai-code-assistant/
+nuiun-code-assistant/
 ├── app.py              # Aplicativo principal
 ├── requirements.txt    # Dependências
 ├── .env               # Configurações (não versionado)
