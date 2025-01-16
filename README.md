@@ -4,15 +4,15 @@ Um assistente de código inteligente construído com Python e Streamlit, utiliza
 
 ## 📋 Índice
 
-- [Requisitos](-requisitos)
-- [Instalação](-instalação)
-- [Configuração](-configuração)
-- [Uso](-uso)
-- [Estrutura do Projeto](-estrutura-do-projeto)
-- [API](-api)
-- [Contribuição](-contribuição)
-- [Suporte](-suporte)
-- [Licença](-licença)
+- [Requisitos](#-requisitos)
+- [Instalação](#-instalação)
+- [Configuração](#-configuração)
+- [Uso](#-uso)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [API](#-api)
+- [Contribuição](#-contribuição)
+- [Suporte](#-suporte)
+- [Licença](#-licença)
 
 ## 🔧 Requisitos
 
