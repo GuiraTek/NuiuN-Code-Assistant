@@ -73,6 +73,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+![image](https://github.com/user-attachments/assets/719a6cad-282a-490a-b4ed-7d08efcdeff1)
 
 2. **Acesse a interface**
    - Abra seu navegador em `http://localhost:8501`
