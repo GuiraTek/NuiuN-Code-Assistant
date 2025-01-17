@@ -1,4 +1,4 @@
-# 🤖 NuiN Code Assistant
+# 🤖 NuiuN Code Assistant
 
 Um assistente de código inteligente construído com Python e Streamlit, utilizando a API Groq para sugestões de código e correções.
 
