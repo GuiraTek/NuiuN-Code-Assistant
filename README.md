@@ -25,7 +25,7 @@ Um assistente de código inteligente construído com Python e Streamlit, utiliza
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/seu-usuario/nuin-code-assistant.git
+git clone https://github.com/willph/nuin-code-assistant.git
 cd nuin-code-assistant
 ```
 
